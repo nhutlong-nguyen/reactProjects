@@ -1,4 +1,4 @@
-# Small Reactjs todoList project
+# Simple Reactjs todoList project
 
 https://reactjs-todoslongnguyen.netlify.app/
 
